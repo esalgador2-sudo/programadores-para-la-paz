@@ -1,0 +1,5 @@
+Pregunta 7 — Probar el registro de datos
+
+Al ingresar a la ruta GET http://localhost:3000/reportes desde el navegador, se realiza una solicitud HTTP al servidor local. El servidor procesa esta petición y responde enviando la lista de datos almacenados en el arreglo en memoria en formato JSON. 
+
+En la pantalla se observa la estructura con los campos correspondientes a los reportes registrados, tales como el "id", el "titulo", la "descripcion" y el "sector" de cada incidencia, confirmando que la API está respondiendo de manera correcta y oportuna a las consultas.

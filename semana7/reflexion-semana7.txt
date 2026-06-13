@@ -1,0 +1,5 @@
+Reflexión — Semana 7
+
+Durante esta semana comprendí cómo un servidor backend centraliza la información comunitaria mediante el uso de una API. El uso de arreglos en memoria permite mantener un almacenamiento temporal de las incidencias reportadas mientras el servidor esté en ejecución. 
+
+Por su parte, los métodos HTTP son los pilares de la comunicación: la ruta GET proporciona un canal directo y transparente para consultar el estado actual de los problemas comunitarios, mientras que la ruta POST facilita el envío y registro de nuevas necesidades de manera estructurada. Esta combinación de tecnologías es fundamental para crear aplicaciones organizadas, eficientes y orientadas al servicio ciudadano.

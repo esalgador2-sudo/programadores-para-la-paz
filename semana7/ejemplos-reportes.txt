@@ -1,0 +1,17 @@
+Ejemplos adicionales de reportes en formato JSON:
+
+Ejemplo 1:
+{
+  "id": 3,
+  "titulo": "Semáforo averiado",
+  "descripcion": "El semáforo de la intersección se encuentra intermitente y genera congestión vehicular.",
+  "sector": "Sur"
+}
+
+Ejemplo 2:
+{
+  "id": 4,
+  "titulo": "Acumulación de basuras",
+  "descripcion": "Hay una gran cantidad de residuos sólidos acumulados en la esquina del parque comunitario.",
+  "sector": "Occidente"
+}
