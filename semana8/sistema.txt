@@ -1,0 +1,12 @@
+Información obtenida del sistema:
+Microsoft Windows 11 Pro 10.0.26200
+
+Usuario actual:
+desktop-a596746\user
+
+¿Qué información muestra cada comando?
+- Get-ComputerInfo / uname: Muestra los datos detallados del sistema operativo, el nombre del equipo, la versión instalada y la arquitectura del procesador.
+- whoami: Muestra el nombre exacto del usuario que tiene la sesión activa en la terminal en este momento.
+
+¿Por qué es útil conocer información del sistema al administrar un servidor?
+Es fundamental porque permite saber si el sistema operativo está actualizado para evitar fallas de seguridad, verificar si el software o aplicaciones que vamos a instalar son compatibles con esa versión específica, y controlar qué usuario está ejecutando los comandos para asegurar que no se hagan cambios peligrosos sin permisos de administrador.

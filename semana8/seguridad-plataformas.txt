@@ -1,0 +1,8 @@
+Buenas prácticas de seguridad para una plataforma digital comunitaria:
+
+1. Autenticación de doble factor (2FA): Exigir un código extra al celular o correo además de la contraseña al iniciar sesión.
+2. Gestión de roles y permisos estrictos: Que los usuarios comunes solo puedan ver contenido y únicamente los administradores autorizados puedan modificar o borrar datos.
+3. Encriptación de datos sensibles: Proteger las contraseñas y datos personales de la comunidad para que nadie pueda leerlos si hay un acceso no autorizado.
+4. Moderación y reportes comunitarios: Implementar herramientas para que la misma comunidad pueda reportar contenido ofensivo, spam o perfiles falsos rápidamente.
+5. Copias de seguridad periódicas (Backups): Realizar respaldos automáticos de toda la información de la plataforma para poder recuperarla en caso de fallas o ataques.
+6.
