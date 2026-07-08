@@ -1,0 +1,26 @@
+Pregunta 7 — Diseñar modelo de datos simple
+
+Entidad: Reporte de daño en vías
+
+Campos principales:
+- id: 54.866.987
+- dirección: Cerete, cordoba barrio miraflores
+- descripción del daño: Hueco de aproximadamente un metro de diametro que dificulta el paso de vehiculos y motocicletas.
+- fecha del reporte: 05/07/2026
+- estado: En revision
+
+Propósito:
+Registrar los reportes de huecos o daños en las calles del municipio para que la administración pueda hacer seguimiento y programar su reparación.
+
+
+Entidad: Ciudadano 
+
+Campos principales:
+- id: 1.001.233.535
+- nombre; Migel Campos Rios
+- correo electrónico:Migue123gmail.es
+- teléfono: 324567987
+- barrio: miraflores
+
+Propósito:
+Guardar la información de los ciudadanos que realizan los reportes para poder contactarlos y notificarles el estado de su solicitud.
