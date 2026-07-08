@@ -1,0 +1,18 @@
+Pregunta 8 — Definir una iteración simple
+
+¿Qué 2 tareas del backlog harías primero?
+
+1. Como coordinador quiero recibir una alerta en Telegram cuando se registre un nuevo reporte.
+2. Como miembro del equipo quiero consultar los reportes registrados para hacer seguimiento.
+
+¿Por qué son las más importantes?
+
+Porque permiten informar de inmediato al equipo sobre los nuevos reportes y facilitar el seguimiento de cada caso para brindar una atención más rápida y organizada.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+
+Para mí, una tarea está terminada cuando:
+
+1. Cumple con el objetivo para el que fue creada.
+2. Se verificó que funciona correctamente.
+3. Fue guardada y registrada en Git sin presentar errores.

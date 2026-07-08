@@ -1,0 +1,16 @@
+Diseñar una automatización simple
+
+
+¿Qué evento activa el flujo?
+
+El flujo se activa cuando un coordinador registra una nueva incidencia en el sistema de veeduría.
+
+
+¿Qué mensaje se enviaría a Telegram?
+
+"Se registró una nueva incidencia. Por favor, revisa la plataforma para validar la información y asignar el seguimiento correspondiente."
+
+
+¿Qué información no debería enviarse por seguridad?
+
+No deben compartirse datos personales como nombres completos, números de identificación, direcciones de residencia, números de teléfono, correos electrónicos, contraseñas ni cualquier otra información confidencial que pueda afectar la privacidad de los usuarios.
