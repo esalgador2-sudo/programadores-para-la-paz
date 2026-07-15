@@ -1,0 +1,12 @@
+Ejemplo de flujo para un sistema de gestión de PQRS (Peticiones, Quejas, Reclamos y Sugerencias):
+
+​Registro: El usuario ingresa a la plataforma y redacta su solicitud seleccionando el tipo de trámite.
+
+​Validación: El sistema verifica que los datos obligatorios estén completos y asigna un número de radicado único.
+
+​Notificación: El sistema envía un correo electrónico automático al usuario confirmando la recepción y al área encargada para su atención.
+
+​Procesamiento: El funcionario encargado gestiona la solicitud y actualiza el estado en la base de datos.
+
+​Generación de respuesta: Una vez resuelta, el sistema genera automáticamente un documento PDF de respuesta final y lo envía al usuario.
+

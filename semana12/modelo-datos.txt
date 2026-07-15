@@ -1,0 +1,11 @@
+Entidad: casua
+id: 101
+titulo: Mejora de iluminacion parque central
+descripcion: Instalacion de iluminacion LED para mejorar la seguridad nocturna de la comunidad 
+fecha: 14/07/2026
+
+Entidad: apoyo
+id: 5001
+causa_id: 101
+nombre: Milena rodriguez
+fecha: 15/07/2026

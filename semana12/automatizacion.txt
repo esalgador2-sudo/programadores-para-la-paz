@@ -1,0 +1,7 @@
+​Automatización con Telegram
+
+
+​Evento que activa la automatización: La creación de un nuevo "Apoyo" en la plataforma, cuando el contador de una causa aumenta.
+​Mensaje que se envía: "¡Hola! Has recibido un nuevo apoyo en tu causa:Mejora de la iluminacion parque central. ¡La comunidad te respalda!"
+​Información que no debe enviarse por seguridad: Por protección de datos personales, nunca se deben incluir números de cédula, números de teléfono privados, direcciones exactas de domicilio o cualquier otro comentario sensible del usuario que brinda el apoyo.
+
